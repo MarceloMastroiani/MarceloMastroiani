@@ -11,7 +11,7 @@
 
 <h2>📖Sobre mi</h2>
 <p>* 💻 Soy un Desarrollador Full-Stack</p>
-<p>* 🌐 Puedes ver algunos de mis proyectos en <span><a href="https://marcelomastroiani-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">My portfolio</a></span></p>
+<p>* 🌐 Puedes ver algunos de mis proyectos en <a href="https://marcelomastroiani-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
 <p></p>
 <p></p>
 <p></p>
