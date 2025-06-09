@@ -10,8 +10,13 @@
 <br>
 
 <h2>📖Sobre mi</h2>
-* 💻 Soy un Desarrollador Full-Stack
-* 🌐 Puedes ver algunos de mis proyectos en [my portfolio](https://marcelomastroiani-portfolio.vercel.app)
+<p>* 💻 Soy un Desarrollador Full-Stack</p>
+<p>* 🌐 Puedes ver algunos de mis proyectos en <span><a href="https://marcelomastroiani-portfolio.vercel.app">My portfolio</a></span></p>
+<p></p>
+<p></p>
+<p></p>
+
+
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcelomastroiani-portfolio.vercel.app)
 
