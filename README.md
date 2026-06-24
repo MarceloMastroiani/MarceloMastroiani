@@ -31,6 +31,13 @@ Web Development student. I enjoy backend and open source — building systems th
 
 ---
 
+## 🔓 Open Source & Practice
+
+- 🔌 **[Dark PDF](https://github.com/MarceloMastroiani/dark-pdf)** — Obsidian plugin to export notes as dark-themed PDFs · [marketplace](https://obsidian.md/plugins?id=dark-pdf)
+- 🛒 **[ecommerce-backend](https://github.com/MarceloMastroiani/ecommerceBackEnd)** — REST API for e-commerce with layered architecture, DAO/Repository pattern, JWT auth and tests (Node.js + Express + MongoDB)
+
+---
+
 ## 🎓 University Projects
 
 - 🚗 **[Autos del Litoral](https://github.com/Grupo-integrador/Autos_del_Litoral)** — Car dealership management system (Python + JSON), university integrative project
@@ -56,6 +63,7 @@ Sites built and/or maintained for real clients:
 
 ## 🔗 Connect
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://marcelomastroiani-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-MarceloMastroiani-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MarceloMastroiani)
 [![LinkedIn](https://img.shields.io/badge/-Marcelo_Mastroiani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-mastroiani/)
 [![Gmail](https://img.shields.io/badge/-mastroianimarcelo04@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mastroianimarcelo04@gmail.com)
