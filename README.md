@@ -34,7 +34,7 @@ Web Development student. I enjoy backend and open source — building systems th
 ## 🎓 University Projects
 
 - 🚗 **[Autos del Litoral](https://github.com/Grupo-integrador/Autos_del_Litoral)** — Car dealership management system (Python + JSON), university integrative project
-
+- 🖥️ **[RISC vs CISC](https://github.com/MarceloMastroiani/risc-vs-cisc)** — Interactive scrollytelling presentation on processor architectures (React + TypeScript + GSAP), university project · [demo](https://marcelomastroiani.github.io/risc-vs-cisc/)
 ---
 
 ## 🌐 Freelance Work (WordPress)
