@@ -25,6 +25,7 @@ Web Development student. I enjoy backend and open source — building systems th
 ---
 
 ## 🚀 Personal Projects
+- 🤖 **[Stoqra](https://github.com/MarceloMastroiani/stoqra)** — AI-powered Telegram bot built with Telegraf and Bun; uses LangChain to manage agents that respond to messages, with structured error handling
 - 💤 **[LazyPlan](https://github.com/MarceloMastroiani/lazyPlan)** — Terminal UI to capture and manage project ideas, with GitHub repo creation built in (Python + Textual)
 - 🔄 **[proxy-caching](https://github.com/MarceloMastroiani/proxy-caching)** — Caching proxy to reduce LLM API call costs
 - 🛒 **[Ecommerce Microservice](https://github.com/Nest-Nordicaps/launcher-ms-nordicaps)** — Microservices architecture for ecommerce, built with NestJS
